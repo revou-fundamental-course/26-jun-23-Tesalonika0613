@@ -314,7 +314,6 @@ body {
   /* column-gap: 50px; */
   row-gap: 25px;
   margin-bottom: 50px;
-  background-color: #2f353f;
 }
 
 
@@ -333,7 +332,6 @@ body {
 .package {
   width: 400px;
   height: 200px;
-  background-color: #386743;
 }
 
 #package-number {
